@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# About me
+## I am currently learning to code 
 <!--
 **NZ3US99/NZ3US99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
