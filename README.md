@@ -1,5 +1,13 @@
-# About me
-## I am currently learning to code 
+# About Me
+
+Learning to code
+
+Aut inveniam viam aut faciam. 
+
+<!-- 
+Not sure what to put here for now, lol. 
+-->
+
 <!--
 **NZ3US99/NZ3US99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
